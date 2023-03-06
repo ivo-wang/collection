@@ -1,0 +1,126 @@
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\1.txt
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\7105+DEMO+CODE+TXRX.rar
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\7125_0DB.rar
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7105+Datasheet+v0.3(chinese_version_Preliminary).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125.JPG
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A71251.JPG
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\AN_A7125_00_ v0.2.pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\MD7105-A06+module+specification+Version+0.0.pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\MD7125-A06-01.PCB
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\MD7125-A06-01.Sch
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_00 Reference Code for FIFO Mode V1.0.pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_14 User guide - reference code generator
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x3_Reference code for Direct mode
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\A7125reg.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.hex
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.lnp
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.LST
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.M51
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.OBJ
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.plg
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.uvopt
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept.uvproj
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept_uvopt.bak
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\accept_uvproj.bak
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\define.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\ExtDll.iex
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\main.LST
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\main.OBJ
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\STARTUP.A51
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\STARTUP.LST
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125ACCEPT\STARTUP.OBJ
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\A7125reg.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\define.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\ExtDll.iex
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\send.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.hex
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.lnp
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\send.LST
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.M51
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\send.OBJ
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.plg
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.uvopt
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND.uvproj
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND_uvopt.bak
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\SEND_uvproj.bak
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\STARTUP.A51
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\STARTUP.LST
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\A7125SEND\STARTUP.OBJ
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code.rar
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_14 User guide - reference code generator
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x3_Reference code for Direct mode
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_14 User guide - reference code generator\RC_A7125_14 User guide - reference code generator v0.2 (chniese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_14 User guide - reference code generator\RC_A7125_x4_ReferenceCodeGeneratorR02.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_00 Reference Code for FIFO mode V1.2(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_00 Reference Code for FIFO mode V1.3(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_10_Reference code for FIFO mode V1.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_10_Reference code for FIFO mode V1.3(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.3.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\A7125reg.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\define.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\main.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\Uti.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\uti.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\W77LE58.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_01  Hopping Reference code for FIFO mode V1.2.pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_01  Hopping Reference code for FIFO mode V1.3(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_11_Hopping reference code for FIFO mode V1.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_11_Hopping reference code for FIFO mode V1.3(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_x1_Hopping reference code for FIFO mode V1.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_x1_Hopping reference code for FIFO mode V1.3.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_02_Reference code for FIFO extension mode(2Mbps) V0.1(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_02_Reference code for FIFO extension mode(2Mbps) V0.2(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_12_Reference code for FIFO extension mode(2Mbps)_V0.1(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_12_Reference code for FIFO extension mode(2Mbps)_V0.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_x2 Reference code for extend fifo V0.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_x2 Reference code for fifo extension fifo mode(2Mbps) V0.1.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x3_Reference code for Direct mode\RC_A7125_13_Reference code for Direct mode V0.0(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x3_Reference code for Direct mode\RC_A7125_x3 Reference code for direct mode V0.0.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\PROGAMME\A7125 Reference code\RC_A7125_x3_Reference code for Direct mode\RC_A7125_x3 Reference code for direct mode V0.1.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_14 User guide - reference code generator\RC_A7125_14 User guide - reference code generator v0.2 (chniese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_14 User guide - reference code generator\RC_A7125_x4_ReferenceCodeGeneratorR02.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_00 Reference Code for FIFO mode V1.2(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_00 Reference Code for FIFO mode V1.3(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_10_Reference code for FIFO mode V1.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_10_Reference code for FIFO mode V1.3(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.3.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\A7125reg.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\define.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\main.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\Uti.c
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\uti.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x0_FIFO mode\RC_A7125_x0_Reference code for FIFO mode V1.2\RC_A7125_x0_Reference code for FIFO mode V1.2\W77LE58.h
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_01  Hopping Reference code for FIFO mode V1.2.pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_01  Hopping Reference code for FIFO mode V1.3(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_11_Hopping reference code for FIFO mode V1.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_11_Hopping reference code for FIFO mode V1.3(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_x1_Hopping reference code for FIFO mode V1.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x1_FIFO Mode with Hopping function\RC_A7125_x1_Hopping reference code for FIFO mode V1.3.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_02_Reference code for FIFO extension mode(2Mbps) V0.1(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_02_Reference code for FIFO extension mode(2Mbps) V0.2(English version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_12_Reference code for FIFO extension mode(2Mbps)_V0.1(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_12_Reference code for FIFO extension mode(2Mbps)_V0.2(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_x2 Reference code for extend fifo V0.2.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x2_Reference code for FIFO extension mode(2Mbps)\RC_A7125_x2 Reference code for fifo extension fifo mode(2Mbps) V0.1.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x3_Reference code for Direct mode\RC_A7125_13_Reference code for Direct mode V0.0(Chinese version).pdf
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x3_Reference code for Direct mode\RC_A7125_x3 Reference code for direct mode V0.0.zip
+C:\Users\L14\Downloads\download.eeworld.com.cn_A7125编程资料（全）包括数据手册以及代码示例\A7125编程资料（全）包括数据手册以及代码示例\A7125\RC_A7125_x3_Reference code for Direct mode\RC_A7125_x3 Reference code for direct mode V0.1.zip
